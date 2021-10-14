@@ -12,7 +12,7 @@ body {
 	display: none;
 }
 .peach {
-	background-color: #FFDAB9;
+	background-color: #379487;
 	
 }
 .peach-after {
@@ -25,90 +25,90 @@ body {
 
 @-webkit-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #379487;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #379487;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #379487;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #379487;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #379487;
 	}
 }
 @-moz-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #379487;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #379487;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #379487;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #379487;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #379487;
 	}
 }
 
 @-o-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #379487;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #379487;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #379487;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #379487;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #379487;
 	}
 }
 
 @-ms-keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #379487;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #379487;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #379487;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #379487;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #379487;
 	}
 }
 
 @keyframes peach_alive {
 	0%{
-		background-color: #FFDAB9;
+		background-color: #379487;
 	}
 	25%{
-		background-color: #FFE4B5;
+		background-color: #379487;
 	}
 	50%{
-		background-color: #FFDAB9;
+		background-color: #379487;
 	}
 	75%{
-		background-color: #FFEFD5;
+		background-color: #379487;
 	}
 	100%{
-		background-color: #FFDAB9;
+		background-color: #379487;
 	}
 }
 
@@ -1056,7 +1056,7 @@ audio {
 	100% {
 		-ms-transform:translate(0px,0px);
 	}
-}o
+}
 @keyframes bannar_come {
 	0%{
 		transform:translate(0px,-1000px);
@@ -1255,6 +1255,14 @@ audio {
 	opacity: 0.5;
 	z-index: 9999;
 }
+
+#bo-va-bo {
+	width: 300px;
+	height: 300px;
+	/* top: 50%; */
+	opacity: 0.8;
+}
+
 .control-panel {
 	position: fixed;
 	bottom: 0;
